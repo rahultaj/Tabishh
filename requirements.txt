@@ -1,4 +1,8 @@
-telebot flask aiogram pyTelegramBotAPI python-telegram-bot
-python-telegram-bot==20.0
-asyncio
-
+pymongo
+python-telegram-bot
+pyTelegramBotAPI
+certifi
+pyTelegramBotAPI
+flask
+aiogram
+telebot

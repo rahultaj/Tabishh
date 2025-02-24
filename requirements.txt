@@ -1,4 +1,4 @@
-pip install telebot flask aiogram pyTelegramBotAPI python-telegram-bot
+telebot flask aiogram pyTelegramBotAPI python-telegram-bot
 python-telegram-bot==20.0
 asyncio
 
